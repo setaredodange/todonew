@@ -1,0 +1,8 @@
+.header {
+    background-color: rgb(139, 8, 139);
+    padding: 42px 24px;
+    box-shadow: 0 6px 5px rgb(83, 2, 83);
+    font-family: bold;
+    font-size: 24px;
+    color: yellow;
+}

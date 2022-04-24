@@ -1,0 +1,27 @@
+.add-todo{
+    width: 20%;
+    margin-top: 60px;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 60px auto 60px auto;
+
+}
+
+
+button{
+    background-color: rgb(139, 8, 139) ;
+    padding: 4px 16px;
+    color: yellow;
+    font-size: 24px;
+    border: none;
+    border-radius: 4px;
+
+}
+
+input{
+    padding-left: 4px 16px;
+    font-size: 24px;
+    outline: none;
+    margin-left: 5px;
+}
